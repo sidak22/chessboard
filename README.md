@@ -1,1 +1,2 @@
-# chessboard
+![](cb.png)
+![](cb1.png)
